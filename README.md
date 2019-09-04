@@ -17,3 +17,8 @@
 #### ![Alt text](https://www.img.in.th/images/af52f51d20939184e3e320bccc14d8b4.png)
 
 ## ตัวอย่าง Chat App 
+### cmd
+        git clone https://github.com/kittophop1998/ChatApp.git $$ cd testchat1 $$ npm install
+* Config Firebase 
+   * นำข้อมูลของ Firebase เราไปใส่ใน AuthLoading.js
+   #### ![Alt text](https://www.img.in.th/images/1db94a236e8349a467871a3c7110f80e.png)
