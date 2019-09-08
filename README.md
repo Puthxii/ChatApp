@@ -22,9 +22,9 @@
 
 #### ตัวอย่างการใช้งาน Firebase
 
-1. import Firebase
+    1. import Firebase
 #### ![Alt text](https://www.img.in.th/images/7061c5a843d64d7ab5f90ae4f08bea86.png)
-2. ส่วน Config Firebase
+    2. ส่วน Config Firebase
 #### ![Alt text](https://www.img.in.th/images/af52f51d20939184e3e320bccc14d8b4.png)
 
 ## ตัวอย่าง Chat App 
