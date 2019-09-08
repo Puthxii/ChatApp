@@ -1,7 +1,14 @@
 # การสร้าง Chat App โดย React native
-   บทความนี้สอนการสร้าง Chat App โดยใช้ Firebase เป็นที่เก็บข้อมูล ให้สามารถนำ Package firebase มาใช้ทำ Chat App แบบพื้นฐาน ให้คนที่กำลังจะเริ่มทำ Application เอาไปปรับใช้ได้จริง 
+   การสร้าง Chat App แบบพื้นฐาน สำหรับบุคคลที่กำลังจะเริ่มทำ Application การ Chat สามารถเอาไปปรับใช้ได้จริง โดยใช้ Firebase เก็บข้อมูล ด้วยการนำ Package firebase มาใช้
+
+# ขั้นตอนการสร้างโปรเจค
+1. npm install -g react-native-cli
+2. react-native init testchat1
+3. cd testchat1
+4. react-native run-android
 
 ## สิ่งที่ใช้
+   * npm install @react-native-community/async-storage
    * Program Visual Studio Code
    * Mobile Phone (Android V.4++)   **ใช้โทรศัพท์ มากกว่า 1 เครื่องในการลอง เนื่องจากเราจะได้ทดสอบการสื่อสารกันระหว่าง เครื่องได้
   
@@ -29,3 +36,8 @@
 
 ### RUN
    * react-native run-android
+
+### By kittophop1998
+     Seena98p
+     sirilaknew
+     Fareeda
