@@ -43,6 +43,7 @@
     เมื่อ Run โปรแกรมแล้ว หน้าจอจะแสดงผลหน้า login จากนั้นให้ผู้ใช้ใส่ Phone number และ name แล้วกด login
     โปรแกรมจะแสดงหน้า Chat โดยแสดงรายชื่อเพื่อนทั้งหมดที่มี เมื่อต้องการ chat กับเพื่อนคนใดให้กดที่ชื่อบุคคลคนนั้น 
     จากนั้นหน้าจอจะเข้าไปยัง Chat ของบุคคลที่จะคุยด้วย หากผู้ใช้ต้องการดูโปรไฟล์ของผู้ใช้เองให้กดที่รูปคนด้านบนขวา
+ข้อมูลเพิ่ม [https://www.youtube.com/watch?v=omKU24SmBUM&fbclid=IwAR2xet6eDOUI8d98clGolx2SVKnjzK-hU_A6u2OIylc0dh3yELeGC2ZqhHQ](www.google.com)
 ### By 
      # kittophop1998
      # Seena98p
