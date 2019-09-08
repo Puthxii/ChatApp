@@ -7,12 +7,12 @@
 3. cd testchat1
 4. react-native run-android
 
-## สิ่งที่ใช้
+### สิ่งที่ใช้
    * npm install @react-native-community/async-storage
    * Program Visual Studio Code
    * Mobile Phone (Android V.4++)   **ใช้โทรศัพท์ มากกว่า 1 เครื่องในการลอง เนื่องจากเราจะได้ทดสอบการสื่อสารกันระหว่าง เครื่องได้
   
-## Package ที่ใช้
+### Package ที่ใช้
 
 * โดยใช้ npm / yarn ในการติดตั้ง Package
   * npm I firebase	
@@ -38,6 +38,6 @@
    * react-native run-android
 
 ### By kittophop1998
-     Seena98p
-     sirilaknew
-     Fareeda
+     # Seena98p
+     # sirilaknew
+     # Fareeda
