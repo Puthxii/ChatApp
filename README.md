@@ -8,13 +8,13 @@
 4. react-native run-android
 
 ### สิ่งที่ใช้
-   * npm install @react-native-community/async-storage
    * Program Visual Studio Code
    * Mobile Phone (Android V.4++)   **ใช้โทรศัพท์ มากกว่า 1 เครื่องในการลอง เนื่องจากเราจะได้ทดสอบการสื่อสารกันระหว่าง เครื่องได้
   
 ### Package ที่ใช้
 
 * โดยใช้ npm / yarn ในการติดตั้ง Package
+  * npm install @react-native-community/async-storage
   * npm I firebase	
   * npm I  react-native-gesture-handler
   * npm I react-navigation
