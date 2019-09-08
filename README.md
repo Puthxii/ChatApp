@@ -2,7 +2,7 @@
     การสร้าง Chat App แบบพื้นฐาน สำหรับบุคคลที่กำลังจะเริ่มทำ Application การ Chat 
     สามารถเอาไปปรับใช้ได้จริง โดยใช้ Firebase เก็บข้อมูล ด้วยการนำ Package firebase มาใช้
 
-# ขั้นตอนการสร้างโปรเจค
+### ขั้นตอนการสร้างโปรเจค
     1. npm install -g react-native-cli
     2. react-native init testchat1
     3. cd testchat1
