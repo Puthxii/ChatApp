@@ -30,13 +30,16 @@
 
 ## ตัวอย่าง Chat App 
 ### cmd
-        git clone https://github.com/kittophop1998/ChatApp.git $$ cd testchat1 $$ npm install
+    git clone https://github.com/kittophop1998/ChatApp.git $$ cd testchat1 $$ npm install
+#### App.js
+    import {createStackNavigator} from 'react-navigation-stack';
+    import {createAppContainer, createSwitchNavigator} from 'react-navigation';
 ### Config Firebase 
-        * นำข้อมูลของ Firebase ไปใส่ใน AuthLoading.js
+    * นำข้อมูลของ Firebase ไปใส่ใน AuthLoading.js
    #### ![Alt text](https://www.img.in.th/images/1db94a236e8349a467871a3c7110f80e.png)
 
 ### RUN
-        * react-native run-android
+    * react-native run-android
 ### Example App
 ![Alt text](https://www.img.in.th/images/303de65b813dcdce84c13e2e6358dd6d.png)
 
