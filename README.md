@@ -15,10 +15,10 @@
 ### Package ที่ใช้
 
     * โดยใช้ npm / yarn ในการติดตั้ง Package
-        * npm install @react-native-community/async-storage
-        * npm i firebase	
-        * npm i  react-native-gesture-handler
+        * npm i firebase
         * npm i react-navigation
+        * npm i react-native-gesture-handler
+        * npm install @react-native-community/async-storage
 #### การใช้งาน Firebase เบื้องต้น คุณต้องมี User ใน Firebase ก่อน โดยไปสมัคร Firebase [https://firebase.google.com](www.google.com)
 
 #### ตัวอย่างการใช้งาน Firebase
