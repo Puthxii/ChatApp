@@ -37,7 +37,8 @@
 ### RUN
    * react-native run-android
 
-### By kittophop1998
+### By 
+     # kittophop1998
      # Seena98p
      # sirilaknew
      # Fareeda
