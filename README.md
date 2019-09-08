@@ -37,7 +37,11 @@
 ### RUN
    * react-native run-android
 ### Example App
-![Alt text](https://www.img.in.th/images/303de65b813dcdce84c13e2e6358dd6d.png)  
+   เมื่อ Run โปรแกรมแล้ว หน้าจอจะแสดงผลหน้า login จากนั้นให้ผู้ใช้ใส่ Phone number และ name แล้วกด login
+โปรแกรมจะแสดงหน้า Chat โดยแสดงรายชื่อเพื่อนทั้งหมดที่มี เมื่อต้องการ chat กับเพื่อนคนใดให้กดที่ชื่อบุคคลคนนั้น จากนั้นหน้าจอจะเข้าไปยัง Chat
+ของบุคคลที่จะคุยด้วย หากผู้ใช้ต้องการดูโปรไฟล์ของผู้ใช้เองให้กดที่รูปคนด้านบนขวา
+
+![Alt text](https://www.img.in.th/images/303de65b813dcdce84c13e2e6358dd6d.png)
 ### By 
      # kittophop1998
      # Seena98p
