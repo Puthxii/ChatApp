@@ -36,11 +36,10 @@
 
 ### RUN
    * react-native run-android
-![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zp1O12.png?fbclid=IwAR3ngD3NfSATFJc8u_rJIwHQmkPlOGqdEjRMO9cit07CnNN9v7oL63M5vUM)
-
 
 ### By 
      # kittophop1998
      # Seena98p
      # sirilaknew
      # Fareeda
+![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zp1O12.png?fbclid=IwAR3ngD3NfSATFJc8u_rJIwHQmkPlOGqdEjRMO9cit07CnNN9v7oL63M5vUM)     
