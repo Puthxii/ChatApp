@@ -36,11 +36,11 @@
 
 ### RUN
    * react-native run-android
-#### ![Alt text](https://sv1.picz.in.th/images/2019/09/09/ZpYjUy.png?fbclid=IwAR04ES_oiaQdnHOTRNVjAjecEaTlojCiZovwp2Y7D9uEuUCiOkXCpaEpFYU)
-#### ![Alt text](https://sv1.picz.in.th/images/2019/09/09/ZpzWSN.png?fbclid=IwAR3ejfQiUSbUVBQiqLkkWufsYXsolSwbndqTRCJShYiSbo36lbqbj88lmRw)
-#### ![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zpz7IS.png?fbclid=IwAR2EPhKCZ0lQEgHQeDY7gtfohqaf6cqa1iyl1Kto9rpaJzKoXRqDzPkWdPE)
-#### ![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zpzf51.png?fbclid=IwAR1-2QOdJzXIoTaWMCLQCRlYd2WVPRRjHZTRcOy4WfhSZDu52e2T7cnHNig)
-#### ![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zpz4JW.png?fbclid=IwAR3ejfQiUSbUVBQiqLkkWufsYXsolSwbndqTRCJShYiSbo36lbqbj88lmRw)
+![Alt text](https://sv1.picz.in.th/images/2019/09/09/ZpYjUy.png?fbclid=IwAR04ES_oiaQdnHOTRNVjAjecEaTlojCiZovwp2Y7D9uEuUCiOkXCpaEpFYU)
+![Alt text](https://sv1.picz.in.th/images/2019/09/09/ZpzWSN.png?fbclid=IwAR3ejfQiUSbUVBQiqLkkWufsYXsolSwbndqTRCJShYiSbo36lbqbj88lmRw)
+![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zpz7IS.png?fbclid=IwAR2EPhKCZ0lQEgHQeDY7gtfohqaf6cqa1iyl1Kto9rpaJzKoXRqDzPkWdPE)
+![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zpzf51.png?fbclid=IwAR1-2QOdJzXIoTaWMCLQCRlYd2WVPRRjHZTRcOy4WfhSZDu52e2T7cnHNig)
+![Alt text](https://sv1.picz.in.th/images/2019/09/09/Zpz4JW.png?fbclid=IwAR3ejfQiUSbUVBQiqLkkWufsYXsolSwbndqTRCJShYiSbo36lbqbj88lmRw)
 
 ### By 
      # kittophop1998
