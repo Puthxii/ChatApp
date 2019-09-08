@@ -36,10 +36,10 @@
 
 ### RUN
    * react-native run-android
-
+### Example App
+![Alt text](https://www.img.in.th/images/303de65b813dcdce84c13e2e6358dd6d.png)  
 ### By 
      # kittophop1998
      # Seena98p
      # sirilaknew
-     # Fareeda
-![Alt text](https://www.img.in.th/images/303de65b813dcdce84c13e2e6358dd6d.png)     
+     # Fareeda   
